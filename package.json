@@ -2,6 +2,8 @@
   "dependencies": {
     "axios": "^0.27.2",
     "chai": "^4.3.6",
+    "circular-json": "^0.5.9",
+    "flatted": "^3.2.5",
     "fs": "^0.0.1-security",
     "mocha": "^10.0.0"
   },
